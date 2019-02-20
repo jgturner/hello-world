@@ -1,4 +1,4 @@
 # hello-world
 hello world tutorial
 
-My name is Jason Turner, I am just learning Github. 
+My name is Jason Turner, I am using github
